@@ -1,3 +1,10 @@
+# Adaption for the seminar project
+
+In Interpretability.pdf and the `seminar project` folder, there's an application of jax influence function on the Natural Language Inference(NLI) task.
+
+In this report, we applied influence functions using the latest scaling-up techniques to identify label error in the NLI task. As a result, our approach managed to identify 80% of the label error. Notice that the result,in our case, is highly susceptible to the value of `weight_decay`.
+
+
 # Jax Influence
 
 Scalable implementation of Influence Functions in JaX.
